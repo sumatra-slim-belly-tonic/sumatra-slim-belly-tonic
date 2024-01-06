@@ -22,6 +22,5 @@ warnings: |
   Keep out of reach of children. Do not exceed recommended dose. This product is not intended to diagnose, treat, cure, or prevent any disease. Consult your physician before starting any dietary supplement regimen.
 
 manufacturer:
-  name: XYZ Wellness Inc.
-  website: www.xyzwellness.com
-  contact_email: info@xyzwellness.com
+  website: https://www.healthsupplement24x7.com/get-sumatra-slim-belly-tonic
+
